@@ -1,0 +1,5 @@
+﻿	Protein	Carbohydrate	Fat	IC	PF
+CON	20	64	7		
+MAL	6.4	80.6	2.1		
+MAL-IC	5.76	72.54	1.89	10	
+MAL-PF	5.76	72.54	1.89		10

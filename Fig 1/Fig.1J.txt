@@ -1,0 +1,3 @@
+﻿	Protein	Carbohydrate	Fat
+CON	20.3	63.9	15.8
+MAL	7.1	87.7	5.2
